@@ -1,0 +1,1 @@
+Since the files are too big to upload, please get the data from Kaggle: https://www.kaggle.com/c/bluebook-for-bulldozers/data
